@@ -1,6 +1,4 @@
-```
-害怕极辽
-```
+<!-- 害怕极辽 -->
 <h1 align="center">
   <img src="./src/assets/image/logo.png" alt="cl" width="128" />
   <br>
