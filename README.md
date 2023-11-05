@@ -1,3 +1,6 @@
+```
+害怕极辽
+```
 <h1 align="center">
   <img src="./src/assets/image/logo.png" alt="cl" width="128" />
   <br>
@@ -53,7 +56,7 @@ You should install Rust and Nodejs, see [here](https://tauri.app/v1/guides/getti
 yarn install
 ```
 
-Then download the cl binary... Or you can download it from [cl premium release](https://github.com/Dreamacro/cl/releases/tag/premium) and rename it according to [tauri config](https://tauri.studio/docs/api/config/#tauri.bundle.externalBin).
+[tauri config](https://tauri.studio/docs/api/config/#tauri.bundle.externalBin).
 
 ```shell
 # force update to latest version
@@ -81,27 +84,6 @@ yarn build
 
 > This keng is a little big...
 
-## Screenshots
-
-<div align="center">
-  <img src="./docs/demo1.png" alt="demo1" width="32%" />
-  <img src="./docs/demo2.png" alt="demo2" width="32%" />
-  <img src="./docs/demo3.png" alt="demo3" width="32%" />
-  <img src="./docs/demo4.png" alt="demo4" width="32%" />
-  <img src="./docs/demo5.png" alt="demo5" width="32%" />
-  <img src="./docs/demo6.png" alt="demo6" width="32%" />
-</div>
-
-### Custom Theme
-
-<div align="center">
-  <img src="./docs/color1.png" alt="demo1" width="16%" />
-  <img src="./docs/color2.png" alt="demo2" width="16%" />
-  <img src="./docs/color3.png" alt="demo3" width="16%" />
-  <img src="./docs/color4.png" alt="demo4" width="16%" />
-  <img src="./docs/color5.png" alt="demo5" width="16%" />
-  <img src="./docs/color6.png" alt="demo6" width="16%" />
-</div>
 
 ## Disclaimer
 
@@ -111,15 +93,6 @@ This is a learning project for Rust practice.
 
 Issue and PR welcome!
 
-## Acknowledgement
-
-cl v was based on or inspired by these projects and so on:
-
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-- [Dreamacro/cl](https://github.com/Dreamacro/cl): A rule-based tunnel in Go.
-- [MetaCubeX/cl.Meta](https://github.com/MetaCubeX/cl.Meta): A rule-based tunnel in Go.
-- [Fndroid/cl_for_windows_pkg](https://github.com/Fndroid/cl_for_windows_pkg): A Windows/macOS GUI based on cl.
-- [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 
 ## License
 
